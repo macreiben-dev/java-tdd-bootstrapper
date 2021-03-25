@@ -1,2 +1,4 @@
-package org.tennis;public class TestClass {
+package org.tennis;
+
+public class TestClass {
 }

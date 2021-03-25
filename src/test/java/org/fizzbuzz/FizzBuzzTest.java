@@ -1,2 +1,4 @@
-package org.fizzbuzz;public class FizzBuzzTest {
+package org.fizzbuzz;
+
+public class FizzBuzzTest {
 }

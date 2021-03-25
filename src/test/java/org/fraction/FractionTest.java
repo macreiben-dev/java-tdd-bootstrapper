@@ -1,13 +1,11 @@
 package org.fraction;
 
 import org.assertj.core.api.Assertions;
+import org.junit.jupiter.api.Test;
 
 public class FractionTest {
-    /*@Test*/
+    @Test
     public void someTest() {
-        /*
-        assertThat(true).isEqualTo(true);
-
-         */
+        Assertions.assertThat(true).isEqualTo(false);
     }
 }
