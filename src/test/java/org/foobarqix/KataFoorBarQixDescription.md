@@ -14,8 +14,8 @@ The same number if no other requirement is fulfilled
 
 For a given natural number greater than zero, you must return: the concatenation of previous calculation with symbol occurrence in the given number
 
-3  "FooFoo" :-D
-5  "BarBar" :-P
-7  "QixQix"
-537  "FooBarFooQix"
-17  "17Qix"
+3 -> "FooFoo" :-D
+5 -> "BarBar" :-P
+7 -> "QixQix"
+537 -> "FooBarFooQix"
+17 -> "17Qix"
